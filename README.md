@@ -1,7 +1,8 @@
 <h1 align="center">whythis</h1>
 
-<h3 align="center">whythis is a small CLI tool that lets you attach human explanations to files on your system.</h3>
+<h3 align="center">whythis is a small CLI tool that lets you attach human explanations to files on your system, fast and efficient ;)</h3>
 
+---
 It answers one simple question:
 
 > **Why does this file exist?**
@@ -21,9 +22,7 @@ Instead of guessing months later why `fix_final_v2_REAL.sh` or `temp_patch.py` e
 All metadata is stored locally in:
 
 ```
-
 ~/.whythis/db.json
-
 ````
 
 ---
