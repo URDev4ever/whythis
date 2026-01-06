@@ -1,5 +1,8 @@
 <h1 align="center">whythis</h1>
-
+<p align="center">
+  🇺🇸 <a href="README.md"><b>English</b></a> |
+  🇪🇸 <a href="README_ES.md">Español</a>
+</p>
 <h3 align="center">whythis is a small CLI tool that lets you attach human explanations to files on your system, fast and efficient ;)</h3>
 
 ---
