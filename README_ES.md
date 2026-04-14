@@ -1,7 +1,7 @@
 <h1 align="center">whythis</h1>
 <p align="center">
   🇺🇸 <a href="README.md"><b>English</b></a> |
-  🇪🇸 <a href="README_ES.md">Español</a>
+  🇪🇸 <b>Español</b>
 </p>
 <h3 align="center">whythis es una pequeña herramienta CLI que te permite adjuntar explicaciones humanas a archivos de tu sistema, de forma rápida y eficiente ;)</h3>
 
